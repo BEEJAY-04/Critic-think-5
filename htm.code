@@ -1,0 +1,76 @@
+<!DOCTYPE>
+<html>
+<head>
+<style>
+body {background-color: powder-blue;}
+h1 {
+  color: Green;
+  font-family: Arial;
+  font-size: 170% 
+h1 {
+  color: Green;
+  font-family: Franklin Gothic Medium;
+  font-size: 150%;
+}
+h1 {
+  color: Green;
+  font-family: Lucida Bright;
+  font-size: 200%;
+}
+h1 {
+  color: Green;
+  font-family: Arial Rounded MT Bold;
+  font-size: 250%;
+}
+p {
+  color: black;
+  font-family: Franklin Gothic Medium;
+  font-size: 160%
+}
+</style>
+</head>
+<body>
+
+<p>Boys that like Maths, Physics and English are in Green</p>
+<h1>Boy 1 : Maths</h1>
+<h1>Boy 2 : Physics</h1>
+<h1>Boy 3 : English</h1>
+<h1>Boy 4 : Maths</h1>
+
+
+<style>
+
+<style>
+body {background-color: powder-blue;}
+h3 {
+  color: red;
+  font-family: Arial;
+  font-size: 170% 
+h3 {
+  color: red;
+  font-family: Franklin Gothic Medium;
+  font-size: 150%;
+}
+h3 {
+  color: red;
+  font-family: Lucida Bright;
+  font-size: 200%;
+}
+h3 {
+  color: red;
+  font-family: Arial Rounded MT Bold;
+  font-size: 250%;
+}
+p {
+  color: red;
+  font-family: Franklin Gothic Medium;
+  font-size: 160%
+</style>
+</head>
+
+<p>Girls that like Maths and Health Science are in Red.</p>
+<h3>girl 1 : Maths</h3>
+<h3>Girl 2 : Health Science</h3>
+<h3>Girl 3 : Health Science</h3>
+<h3>Girl 4 : Maths</h3>
+<h3>Girl 4 : Maths</h3>
